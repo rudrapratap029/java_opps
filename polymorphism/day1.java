@@ -1,6 +1,6 @@
 package java_opps.polymorphism;
 
-// Different number of parameter
+// Method Overloading  Different number of parameter    
 
 public class day1 {
   void show(int a ){
@@ -19,3 +19,5 @@ public class day1 {
   } 
   
 }
+
+
