@@ -9,6 +9,7 @@ package java_opps.Abstraction;
   class Car extends Vehicle{
     void start(){
       System.out.println("Car is start with key");
+     
     }
 
   }
