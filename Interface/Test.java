@@ -1,6 +1,7 @@
 package java_opps.Interface;
 
 interface I1 {
+  
   void show();
   
 }
